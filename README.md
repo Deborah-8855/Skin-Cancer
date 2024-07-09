@@ -1,6 +1,6 @@
-# Skin-Cancer c
+# Skin-Cancer 
 build a CNN-based model that detects melanoma. A data set will be provided, which contains images of diffrent skin conditions. 
-Understand the problem statement carefully and go through the evaluation.
+Understand the problem statement carefully and go through the evaluation.\
 1.Data Gathering: Obtain a dataset containing images of malignant and benign tumors. Ensure the dataset is properly labeled to differentiate between the two classes.
 2.Data Preprocessing: Prepare the dataset for training by performing preprocessing tasks. This may involve resizing the images, normalizing pixel values, and splitting the dataset into training and evaluation sets.
 3.Model Architecture Design: Design a Convolutional Neural Network (CNN) architecture suitable for melanoma detection. Construct the model by stacking convolutional layers, pooling layers, and fully connected layers, considering factors such as depth and width.
